@@ -1,3 +1,3 @@
 > ### Coming Soon
-<img src="header.png" width="500" />
+![master](header.png)
 
